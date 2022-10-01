@@ -11,7 +11,9 @@ The module can be installed by running the following from an elevated PowerShell
 
 The module requires [the ActiveDirectory module](https://docs.microsoft.com/en-us/powershell/module/activedirectory/?view=windowsserver2022-ps) to be installed.
 
-### Examples
+---
+
+## Examples
 
 Here's how you can quickly and easily create a new Active Directory user using this module:
 
